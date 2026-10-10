@@ -218,6 +218,13 @@
     },
     {
         "type": "file",
+        "url": "https://registry.npmjs.org/@tauri-apps/api/-/api-2.12.2.tgz",
+        "sha512": "72bd05604b1b49021e12e208a02f1bc1d8875b7625ce2318399d23dd1ec5ea49081d256bad99d5e824a3bff550bc5a32b84446c4573c34cb4b2435e2e7060e62",
+        "dest-filename": "05604b1b49021e12e208a02f1bc1d8875b7625ce2318399d23dd1ec5ea49081d256bad99d5e824a3bff550bc5a32b84446c4573c34cb4b2435e2e7060e62",
+        "dest": "flatpak-node/npm-cache/_cacache/content-v2/sha512/72/bd"
+    },
+    {
+        "type": "file",
         "url": "https://registry.npmjs.org/@tauri-apps/cli-darwin-arm64/-/cli-darwin-arm64-2.11.4.tgz",
         "sha512": "d6bc8e177661a59fe77a61d5e73570050073f630c62a628fbd63c00ce85cf378a0d0fe1b31cda2111e0d6c2eabf6c8de219e91550e20dd164862f7b385c9784d",
         "dest-filename": "8e177661a59fe77a61d5e73570050073f630c62a628fbd63c00ce85cf378a0d0fe1b31cda2111e0d6c2eabf6c8de219e91550e20dd164862f7b385c9784d",
@@ -1050,6 +1057,12 @@
         "contents": "a79a3c3fe8fab3003c1e18aefc7ee75bdcebb316\t{\"key\": \"make-fetch-happen:request-cache:https://registry.npmjs.org/@sveltejs/vite-plugin-svelte/-/vite-plugin-svelte-7.2.0.tgz\", \"integrity\": \"sha512-1SpkuMSRLfugrVX+IrKfE1RUegzo8AQzKQ6qQPfVzbcWi5IhuTPaKb5ZrLpucleFznkc4/RTeSPoRnGWFxX+EQ==\", \"time\": 0, \"size\": 41462, \"metadata\": {\"url\": \"https://registry.npmjs.org/@sveltejs/vite-plugin-svelte/-/vite-plugin-svelte-7.2.0.tgz\", \"reqHeaders\": {}, \"resHeaders\": {}}}",
         "dest-filename": "1ead8395acfc8c1f660dc08007857eb3f065d7f15cc23313e81d3d498129",
         "dest": "flatpak-node/npm-cache/_cacache/index-v5/36/8d"
+    },
+    {
+        "type": "inline",
+        "contents": "aabc40e35e04962fdf620b883f7330f3e472e12a\t{\"key\": \"make-fetch-happen:request-cache:https://registry.npmjs.org/@tauri-apps/api/-/api-2.12.2.tgz\", \"integrity\": \"sha512-cr0FYEsbSQIeEuIIoC8bwdiHW3YlziMYOZ0j3R7F6kkIHSVrrZnV6CSjv/VQvFoyuERGxFc8NMtLJDXi5wYOYg==\", \"time\": 0, \"size\": 139033, \"metadata\": {\"url\": \"https://registry.npmjs.org/@tauri-apps/api/-/api-2.12.2.tgz\", \"reqHeaders\": {}, \"resHeaders\": {}}}",
+        "dest-filename": "486f73c875ed18f83d579f4bc21768232230107261ab8b29d6fa5d6b89e5",
+        "dest": "flatpak-node/npm-cache/_cacache/index-v5/3a/05"
     },
     {
         "type": "inline",
