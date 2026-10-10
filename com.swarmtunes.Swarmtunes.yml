@@ -48,7 +48,7 @@ modules:
     sources:
       - type: git
         url: https://github.com/AceandGaming/swarmtunes-client.git
-        commit: 7c85716e32790247b29b16dbc04564937f9a6d87
+        commit: 575cc855df6972276e0d1d5c60511a4fa14deaa3
 
       - cargo-sources.json
       - node-sources.json
