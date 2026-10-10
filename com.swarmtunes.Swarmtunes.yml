@@ -13,6 +13,7 @@ finish-args:
   - --share=ipc
   - --share=network
   - --socket=pulseaudio
+  - --filesystem=xdg-run/discord-ipc-0
 
 sdk-extensions:
   - org.freedesktop.Sdk.Extension.node26
@@ -47,7 +48,7 @@ modules:
     sources:
       - type: git
         url: https://github.com/AceandGaming/swarmtunes-client.git
-        commit: bb0fa9e4a20bc60002b0411c8ec7ed3034b709c9
+        commit: 575cc855df6972276e0d1d5c60511a4fa14deaa3
 
       - cargo-sources.json
       - node-sources.json
